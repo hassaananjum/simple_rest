@@ -1,1 +1,3 @@
-# simple_rest
+# Instructions
+npm install
+npm start
